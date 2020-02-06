@@ -1,6 +1,6 @@
 # Frontend Checklist
 
-##HEAD##
+## HEAD
 
 - [ ] Doctype: The Doctype is HTML5 and is at the top of all your HTML pages.
 
@@ -16,7 +16,7 @@
 
 - [ ] CSS order: All CSS files are loaded before any JavaScript files in the HEAD
 
-##HTML##
+## HTML
 
 - [ ] HTML5 Semantic Elements: HTML5 Semantic Elements are used appropriately (header, section, footer, main...).
 
@@ -26,7 +26,7 @@
 
 - [ ] Link checker: There are no broken links in my page, verify that you don't have any 404 error.
 
-##CSS##
+## CSS
 
 - [ ] Webfont format: WOFF, WOFF2 and TTF are supported by all modern browsers.
 
@@ -52,7 +52,7 @@
 
 - [ ] Non-blocking: CSS files need to be non-blocking to prevent the DOM from taking time to load.
 
-##Javascript##
+## Javascript
 
 - [ ] JavaScript Inline: You don't have any JavaScript code inline (mixed with your HTML code).
 
@@ -66,7 +66,7 @@
 
 - [ ] ESLint: No errors are flagged by ESLint (based on your configuration or standards rules).
 
-##Images##
+## Images
 
 - [ ] Optimization: All images are optimized to be rendered in the browser. WebP format could be used for critical pages (like Homepage)
 
@@ -78,7 +78,7 @@
 
 - [ ] Lazy loading: Images are lazyloaded (A noscript fallback is always provided).
 
-##Accessibility##
+## Accessibility
 
 - [ ] H1: All pages have an H1 which is not the title of the website.
 
@@ -90,13 +90,13 @@
 
 - [ ] Keyboard navigation: Test your website using only your keyboard in a previsible order. All interactive elements are reachable and usable.
 
-##Performance##
+## Performance
 
 - [ ] Page weight: The weight of each page is between 0 and 500 KB.
 
 - [ ] Google PageSpeed: All your pages were tested (not only the homepage) and have a score of at least 90/100.
 
-##SEO##
+## SEO
 
 - [ ] Google Analytics: Google Analytics is installed and correctly configured.
 
